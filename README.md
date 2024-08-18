@@ -1,7 +1,8 @@
 # Quick setup, if you've done this kind of thing before
 
-SSH: git@github.com:user/repo.git
-HTTPS: https://github.com/user/repo.git
+SSH: `git@github.com:user/repo.git`
+
+HTTPS: `https://github.com/user/repo.git`
 
 ## Create a new repository on the command line
 
